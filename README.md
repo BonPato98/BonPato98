@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<details><summary>Español</summary></details>
+<details><summary>English</summary></details>
 <!--
 **BonPato98/BonPato98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
